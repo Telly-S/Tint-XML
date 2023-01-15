@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+	<!-- XML Comment -->
+	<CreateVersion>2.5</CreateVersion>
+	<folder></folder>
+	<filename>ori_defect_crop_0.jpg</filename>
+	<size>
+		<width>2590</width>
+		<height>1428</height>
+		<depth>3</depth>
+	</size>
+	<shape type="shapeOne" color="Red" thickness="3">
+		<points>
+			<x>451</x>
+			<y>33</y>
+			<x>495</x>
+			<y>0</y>
+		</points>
+	</shape>
+	<object>
+		<name>longjump</name>
+		<area>836.00</area>
+	</object>
+	<shape type="shapeTwo" color="Red" thickness="3">
+		<points>
+			<x>123</x>
+			<y>45</y>
+			<x>678</x>
+			<y>90</y>
+		</points>
+	</shape>
+	<object>
+		<name>shortjump</name>
+		<area>29620.00</area>
+	</object>
+</annotation>
